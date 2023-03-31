@@ -2,7 +2,7 @@
 파일이름 : LoggableStatement
 출처 : IBM
 
-내용 : 기존 PrepareStatement에서 로깅 가능하게 개선된 클래스
+내용 : 기존 PrepareStatement에서 입력한 Query를 로깅가능하게 개선된 클래스
 
 사용법 :
 
